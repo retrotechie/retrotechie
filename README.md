@@ -6,8 +6,8 @@
 
 🔭 I’m currently working on ...
 - [HRIS](https://github.com/retrotechie/rt-hris)
-- [World Time](https://github.com/retrotechie/rt-flutter-tryout/issues/1)
-- [Notepad](https://github.com/retrotechie/rt-cpp-tryout/issues/2)
+- [World Time](https://github.com/retrotechie/rt-flutter-tryout/tree/1-world-time/world_time)
+- [Notepad](https://github.com/retrotechie/rt-cpp-tryout/tree/2-notepad/Notepad)
 - [Vrowser](https://github.com/retrotechie/rt-vrowser)
 
 
