@@ -6,9 +6,10 @@
 
 🔭 I’m currently working on ...
 - [HRIS](https://github.com/retrotechie/rt-hris)
-- [Vrowser](https://github.com/retrotechie/rt-vrowser)
-- [Worl Time](https://github.com/retrotechie/rt-flutter-tryout/issues/1)
+- [World Time](https://github.com/retrotechie/rt-flutter-tryout/issues/1)
 - [Notepad](https://github.com/retrotechie/rt-cpp-tryout/issues/2)
+- [Vrowser](https://github.com/retrotechie/rt-vrowser)
+
 
 ---
 
