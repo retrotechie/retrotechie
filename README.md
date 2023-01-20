@@ -1,7 +1,7 @@
 <h1 align="center">Retro Techie</h1>
 
 <img align="right"
-  src="https://github-readme-stats-ruby-one.vercel.app/api?username=retrotechie&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
+  src="https://github-readme-stats.vercel.app/api?username=retrotechie&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
 />
 
 🔭 I’m currently working on ...
