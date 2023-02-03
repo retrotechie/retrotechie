@@ -62,19 +62,40 @@
     <tr>
         <td align="center"><b>Databases</b></td>
         <td>
-          <a href="https://www.mysql.com/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="50" height="50"/></a> &nbsp; <a href="https://www.postgresql.org/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a> &nbsp; <a href="https://www.sqlservertutorial.net/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/></a> &nbsp;
+          <a href="https://www.mysql.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://www.postgresql.org/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://www.sqlservertutorial.net/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
+          </a> &nbsp;
         </td>
     </tr>
     <tr>
         <td align="center"><b>CI/CD</b></td>
         <td>
-          <a href="https://www.jenkins.io/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/></a> &nbsp; <a href="https://www.docker.com/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a> &nbsp;<a href="https://www.atlassian.com/software/bamboo"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" alt="Bamboo" width="50" height="50"/></a> &nbsp;
+          <a href="https://www.jenkins.io/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://www.docker.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+          </a> &nbsp;
+          <a href="https://www.atlassian.com/software/bamboo">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bamboo/bamboo-original.svg" alt="Bamboo" width="50" height="50"/>
+          </a> &nbsp;
         </td>
     </tr>
     <tr>
         <td align="center"><b>Platforms</b></td>
         <td>
-          <a href="https://aws.amazon.com/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a> &nbsp; <a href="https://www.heroku.com/"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/></a> &nbsp;
+          <a href="https://aws.amazon.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+          </a> &nbsp; 
+          <a href="https://www.heroku.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>
+          </a> &nbsp;
         </td>
     </tr>
     <tr>
