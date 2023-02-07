@@ -5,7 +5,7 @@
 <img align="left"
   src="https://github-readme-stats.vercel.app/api?username=retrotechie&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
 />
-<img align="center" height='165' 
+<img align="right" height='165' 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrotechie&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
 
 <table>
