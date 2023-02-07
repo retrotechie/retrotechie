@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on ...
 - [HRIS](https://github.com/retrotechie/rt-hris)
-- [World Time](https://github.com/retrotechie/rt-flutter-tryout/tree/1-world-time/world_time)
+- [Hello World](https://github.com/retrotechie/rt-hello-world)
 
 
 <table>
