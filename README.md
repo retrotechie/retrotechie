@@ -33,6 +33,9 @@
           <a href="https://www.typescriptlang.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
           </a> &nbsp;
+          <a href="https://sass-lang.com/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+          </a> &nbsp;
         </td>
     </tr>
     <tr>
