@@ -2,10 +2,10 @@
 
 > I’m currently working on... [HRIS](https://github.com/retrotechie/rt-hris), [Hello World](https://github.com/retrotechie/rt-hello-world)
 
-<img align="right"
+<img align="left"
   src="https://github-readme-stats.vercel.app/api?username=retrotechie&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
 />
-<img align="left" height='165' 
+<img align="center" height='165' 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=retrotechie&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
 
 <table>
