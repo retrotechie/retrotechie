@@ -1,7 +1,5 @@
 <h1 align="center">Retro Techie</h1>
 
-> I’m currently working on... [HRIS](https://github.com/retrotechie/rt-hris), [Hello World](https://github.com/retrotechie/rt-hello-world)
-
 <img align="left" height='165' width='400'
   src="https://github-readme-stats.vercel.app/api?username=retrotechie&show_icons=true&hide_border=true&hide_title=true&theme=transparent"
 />
@@ -28,7 +26,7 @@
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
           </a> &nbsp; 
           <a href="https://www.php.net/">
-            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="50" height="50"/>
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
           </a> &nbsp; 
           <a href="https://www.typescriptlang.org/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
@@ -92,6 +90,9 @@
     <tr>
         <td align="center"><b>Platforms</b></td>
         <td>
+          <a href="https://nodejs.org/en/">
+            <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
+          </a> &nbsp; 
           <a href="https://aws.amazon.com/">
             <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
           </a> &nbsp; 
