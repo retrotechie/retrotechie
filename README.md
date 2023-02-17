@@ -102,6 +102,17 @@
         </td>
     </tr>
     <tr>
+      <td align="center"><b>Web Servers</b></td>
+      <td>
+        <a href="https://www.apache.org/">
+          <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="50" height="50"/>
+        </a> &nbsp; 
+        <a href="https://tomcat.apache.org/">
+          <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat" width="50" height="50"/>
+        </a> &nbsp; 
+      </td>
+    </tr>
+    <tr>
         <td align="center"><b>IDEs/Text Editors</b></td>
         <td>
           <a href="https://www.qt.io/">
